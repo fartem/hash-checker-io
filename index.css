@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+.information {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.text {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 50;
+  color: #eee;
+}
+
+.source {
+  width:200px;
+}
