@@ -9,3 +9,7 @@
 ## 1.0.2
 
 - Optimized app screenshot and added links to GitHub and email
+
+## 1.1.0
+
+- Added link to Privacy Policy
