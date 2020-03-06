@@ -13,3 +13,7 @@
 ## 1.1.0
 
 - Added link to Privacy Policy
+
+## 1.1.1
+
+- Updated app screenshot.
