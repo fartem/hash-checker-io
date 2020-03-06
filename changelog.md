@@ -17,3 +17,7 @@
 ## 1.1.1
 
 - Updated app screenshot.
+
+## 1.1.2
+
+- Updated site
